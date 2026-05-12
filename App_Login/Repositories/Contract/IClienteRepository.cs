@@ -1,0 +1,17 @@
+﻿using App_Login.Models;
+using X.PagedList;
+
+namespace App_Login.Repositories.Contract
+{
+    public interface IClienteRepository
+    {
+        Cliente Login(string Email, string Senha);
+
+        void Cadastrar(Cliente cliente);
+        void Atualizar(Cliente cliente);
+        void Excluir(int Id);
+        Cliente ObterCliente();
+        IEnumerable<Cliente> ObterTodosClientes();
+        IPagedList<Cliente> ObterTodosClientes(int? pagina, string pesquisa);
+    }
+}
