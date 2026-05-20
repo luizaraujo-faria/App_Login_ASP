@@ -10,7 +10,7 @@ namespace App_Login.Repositories.Contract
         void Cadastrar(Cliente cliente);
         void Atualizar(Cliente cliente);
         void Excluir(int Id);
-        Cliente ObterCliente();
+        Cliente ObterCliente(int Id);
         IEnumerable<Cliente> ObterTodosClientes();
         IPagedList<Cliente> ObterTodosClientes(int? pagina, string pesquisa);
     }
