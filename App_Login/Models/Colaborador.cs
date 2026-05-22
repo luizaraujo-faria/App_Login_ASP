@@ -26,6 +26,8 @@ namespace App_Login.Models
         [StringLength(10, MinimumLength = 6, ErrorMessage = "A senha deve ter entre 6 e 10 caracteres")]
         public string Senha { get; set; }
 
+        public string Telefone { get; set; }
+
         /*
          * TIPO ColaboradorTipoConstant
          */
