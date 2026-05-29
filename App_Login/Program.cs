@@ -4,6 +4,7 @@ using App_Login.Repositories.Contract;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+builder.Services.AddHttpContextAccessor();
 builder.Services.AddControllersWithViews();
 
 builder.Services.AddScoped<IClienteRepository, ClienteRepository>();

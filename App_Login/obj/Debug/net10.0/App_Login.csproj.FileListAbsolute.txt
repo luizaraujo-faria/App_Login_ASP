@@ -119,3 +119,4 @@ C:\Users\3MTEC\Desktop\App_Login_Asp\App_Login\obj\Debug\net10.0\refint\App_Logi
 C:\Users\3MTEC\Desktop\App_Login_Asp\App_Login\obj\Debug\net10.0\App_Login.pdb
 C:\Users\3MTEC\Desktop\App_Login_Asp\App_Login\obj\Debug\net10.0\App_Login.genruntimeconfig.cache
 C:\Users\3MTEC\Desktop\App_Login_Asp\App_Login\obj\Debug\net10.0\ref\App_Login.dll
+C:\Users\3MTEC\Desktop\App_Login_Asp\App_Login\bin\Debug\net10.0\Newtonsoft.Json.dll
