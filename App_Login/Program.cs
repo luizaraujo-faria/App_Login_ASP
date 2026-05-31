@@ -1,3 +1,4 @@
+using App_Login.Libraries.Login;
 using App_Login.Repositories;
 using App_Login.Repositories.Contract;
 
@@ -22,6 +23,10 @@ builder.Services.AddSession(options =>
 builder.Services.AddMvc().AddSessionStateTempDataProvider();
 
 builder.Services.AddScoped<App_Login.Libraries.Sessao.Sessao>();
+builder.Services.AddScoped<App_Login.Libraries.Sessao.Sessao>();
+builder.Services.AddScoped<LoginCliente>();
+//Adicionado para manipular a Sessão
+builder.Services.AddHttpContextAccessor();
 
 var app = builder.Build();
 

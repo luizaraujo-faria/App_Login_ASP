@@ -1,21 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\3MTEC\\Desktop\\App_Login_Asp\\",
+  "WorkspaceRootPath": "C:\\Users\\alessandra\\Desktop\\App_Login_ASP\\App_Login_ASP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EADD3D85-568B-AF0C-3AD5-93D5E700ED41}|App_Login\\App_Login.csproj|c:\\users\\3mtec\\desktop\\app_login_asp\\app_login\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EADD3D85-568B-AF0C-3AD5-93D5E700ED41}|App_Login\\App_Login.csproj|solutionrelative:app_login\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{EADD3D85-568B-AF0C-3AD5-93D5E700ED41}|App_Login\\App_Login.csproj|c:\\users\\alessandra\\desktop\\app_login_asp\\app_login_asp\\app_login\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EADD3D85-568B-AF0C-3AD5-93D5E700ED41}|App_Login\\App_Login.csproj|solutionrelative:app_login\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EADD3D85-568B-AF0C-3AD5-93D5E700ED41}|App_Login\\App_Login.csproj|c:\\users\\3mtec\\desktop\\app_login_asp\\app_login\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EADD3D85-568B-AF0C-3AD5-93D5E700ED41}|App_Login\\App_Login.csproj|c:\\users\\alessandra\\desktop\\app_login_asp\\app_login_asp\\app_login\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EADD3D85-568B-AF0C-3AD5-93D5E700ED41}|App_Login\\App_Login.csproj|solutionrelative:app_login\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EADD3D85-568B-AF0C-3AD5-93D5E700ED41}|App_Login\\App_Login.csproj|c:\\users\\alessandra\\desktop\\app_login_asp\\app_login_asp\\app_login\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EADD3D85-568B-AF0C-3AD5-93D5E700ED41}|App_Login\\App_Login.csproj|solutionrelative:app_login\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EADD3D85-568B-AF0C-3AD5-93D5E700ED41}|App_Login\\App_Login.csproj|c:\\users\\3mtec\\desktop\\app_login_asp\\app_login\\libraries\\login\\logincliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EADD3D85-568B-AF0C-3AD5-93D5E700ED41}|App_Login\\App_Login.csproj|c:\\users\\alessandra\\desktop\\app_login_asp\\app_login_asp\\app_login\\views\\painelcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EADD3D85-568B-AF0C-3AD5-93D5E700ED41}|App_Login\\App_Login.csproj|solutionrelative:app_login\\views\\painelcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EADD3D85-568B-AF0C-3AD5-93D5E700ED41}|App_Login\\App_Login.csproj|c:\\users\\alessandra\\desktop\\app_login_asp\\app_login_asp\\app_login\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EADD3D85-568B-AF0C-3AD5-93D5E700ED41}|App_Login\\App_Login.csproj|solutionrelative:app_login\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EADD3D85-568B-AF0C-3AD5-93D5E700ED41}|App_Login\\App_Login.csproj|c:\\users\\alessandra\\desktop\\app_login_asp\\app_login_asp\\app_login\\libraries\\login\\logincliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EADD3D85-568B-AF0C-3AD5-93D5E700ED41}|App_Login\\App_Login.csproj|solutionrelative:app_login\\libraries\\login\\logincliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EADD3D85-568B-AF0C-3AD5-93D5E700ED41}|App_Login\\App_Login.csproj|c:\\users\\3mtec\\desktop\\app_login_asp\\app_login\\libraries\\login\\logincolaborador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EADD3D85-568B-AF0C-3AD5-93D5E700ED41}|App_Login\\App_Login.csproj|c:\\users\\alessandra\\desktop\\app_login_asp\\app_login_asp\\app_login\\libraries\\login\\logincolaborador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EADD3D85-568B-AF0C-3AD5-93D5E700ED41}|App_Login\\App_Login.csproj|solutionrelative:app_login\\libraries\\login\\logincolaborador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,15 +38,54 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alessandra\\Desktop\\App_Login_ASP\\App_Login_ASP\\App_Login\\Program.cs",
+              "RelativeDocumentMoniker": "App_Login\\Program.cs",
+              "ToolTip": "C:\\Users\\alessandra\\Desktop\\App_Login_ASP\\App_Login_ASP\\App_Login\\Program.cs",
+              "RelativeToolTip": "App_Login\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T21:34:00.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\alessandra\\Desktop\\App_Login_ASP\\App_Login_ASP\\App_Login\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "App_Login\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\alessandra\\Desktop\\App_Login_ASP\\App_Login_ASP\\App_Login\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "App_Login\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAADwvzQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-31T21:30:15.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PainelCliente.cshtml",
+              "DocumentMoniker": "C:\\Users\\alessandra\\Desktop\\App_Login_ASP\\App_Login_ASP\\App_Login\\Views\\PainelCliente.cshtml",
+              "RelativeDocumentMoniker": "App_Login\\Views\\PainelCliente.cshtml",
+              "ToolTip": "C:\\Users\\alessandra\\Desktop\\App_Login_ASP\\App_Login_ASP\\App_Login\\Views\\PainelCliente.cshtml",
+              "RelativeToolTip": "App_Login\\Views\\PainelCliente.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-31T21:27:54.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\App_Login_Asp\\App_Login\\Views\\Home\\Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\alessandra\\Desktop\\App_Login_ASP\\App_Login_ASP\\App_Login\\Views\\Home\\Login.cshtml",
               "RelativeDocumentMoniker": "App_Login\\Views\\Home\\Login.cshtml",
-              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\App_Login_Asp\\App_Login\\Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Users\\alessandra\\Desktop\\App_Login_ASP\\App_Login_ASP\\App_Login\\Views\\Home\\Login.cshtml",
               "RelativeToolTip": "App_Login\\Views\\Home\\Login.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -43,42 +94,40 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "LoginColaborador.cs",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\App_Login_Asp\\App_Login\\Libraries\\Login\\LoginColaborador.cs",
+              "DocumentMoniker": "C:\\Users\\alessandra\\Desktop\\App_Login_ASP\\App_Login_ASP\\App_Login\\Libraries\\Login\\LoginColaborador.cs",
               "RelativeDocumentMoniker": "App_Login\\Libraries\\Login\\LoginColaborador.cs",
-              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\App_Login_Asp\\App_Login\\Libraries\\Login\\LoginColaborador.cs",
+              "ToolTip": "C:\\Users\\alessandra\\Desktop\\App_Login_ASP\\App_Login_ASP\\App_Login\\Libraries\\Login\\LoginColaborador.cs",
               "RelativeToolTip": "App_Login\\Libraries\\Login\\LoginColaborador.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-29T12:22:37.736Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-29T12:22:37.736Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\App_Login_Asp\\App_Login\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\alessandra\\Desktop\\App_Login_ASP\\App_Login_ASP\\App_Login\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "App_Login\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\App_Login_Asp\\App_Login\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\alessandra\\Desktop\\App_Login_ASP\\App_Login_ASP\\App_Login\\Controllers\\HomeController.cs",
               "RelativeToolTip": "App_Login\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAqwCoAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwEcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-29T12:16:28.278Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "LoginCliente.cs",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\App_Login_Asp\\App_Login\\Libraries\\Login\\LoginCliente.cs",
+              "DocumentMoniker": "C:\\Users\\alessandra\\Desktop\\App_Login_ASP\\App_Login_ASP\\App_Login\\Libraries\\Login\\LoginCliente.cs",
               "RelativeDocumentMoniker": "App_Login\\Libraries\\Login\\LoginCliente.cs",
-              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\App_Login_Asp\\App_Login\\Libraries\\Login\\LoginCliente.cs",
+              "ToolTip": "C:\\Users\\alessandra\\Desktop\\App_Login_ASP\\App_Login_ASP\\App_Login\\Libraries\\Login\\LoginCliente.cs",
               "RelativeToolTip": "App_Login\\Libraries\\Login\\LoginCliente.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-29T12:06:51.787Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-29T12:06:51.787Z"
             }
           ]
         }
