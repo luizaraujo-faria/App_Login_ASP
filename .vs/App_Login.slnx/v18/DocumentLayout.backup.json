@@ -3,24 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\3MTEC\\Desktop\\App_Login_Asp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EADD3D85-568B-AF0C-3AD5-93D5E700ED41}|App_Login\\App_Login.csproj|c:\\users\\3mtec\\desktop\\app_login_asp\\app_login\\areas\\colaborador\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EADD3D85-568B-AF0C-3AD5-93D5E700ED41}|App_Login\\App_Login.csproj|solutionrelative:app_login\\areas\\colaborador\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EADD3D85-568B-AF0C-3AD5-93D5E700ED41}|App_Login\\App_Login.csproj|c:\\users\\3mtec\\desktop\\app_login_asp\\app_login\\areas\\colaborador\\views\\home\\painelcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EADD3D85-568B-AF0C-3AD5-93D5E700ED41}|App_Login\\App_Login.csproj|solutionrelative:app_login\\areas\\colaborador\\views\\home\\painelcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EADD3D85-568B-AF0C-3AD5-93D5E700ED41}|App_Login\\App_Login.csproj|c:\\users\\3mtec\\desktop\\app_login_asp\\app_login\\areas\\colaborador\\views\\logincolaborador.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EADD3D85-568B-AF0C-3AD5-93D5E700ED41}|App_Login\\App_Login.csproj|solutionrelative:app_login\\areas\\colaborador\\views\\logincolaborador.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EADD3D85-568B-AF0C-3AD5-93D5E700ED41}|App_Login\\App_Login.csproj|c:\\users\\3mtec\\desktop\\app_login_asp\\app_login\\areas\\colaborador\\views\\painelgerente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EADD3D85-568B-AF0C-3AD5-93D5E700ED41}|App_Login\\App_Login.csproj|solutionrelative:app_login\\areas\\colaborador\\views\\painelgerente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EADD3D85-568B-AF0C-3AD5-93D5E700ED41}|App_Login\\App_Login.csproj|c:\\users\\3mtec\\desktop\\app_login_asp\\app_login\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EADD3D85-568B-AF0C-3AD5-93D5E700ED41}|App_Login\\App_Login.csproj|solutionrelative:app_login\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EADD3D85-568B-AF0C-3AD5-93D5E700ED41}|App_Login\\App_Login.csproj|c:\\users\\3mtec\\desktop\\app_login_asp\\app_login\\areas\\colaborador\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EADD3D85-568B-AF0C-3AD5-93D5E700ED41}|App_Login\\App_Login.csproj|solutionrelative:app_login\\areas\\colaborador\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,68 +14,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PainelCliente.cshtml",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\App_Login_Asp\\App_Login\\Areas\\Colaborador\\Views\\Home\\PainelCliente.cshtml",
-              "RelativeDocumentMoniker": "App_Login\\Areas\\Colaborador\\Views\\Home\\PainelCliente.cshtml",
-              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\App_Login_Asp\\App_Login\\Areas\\Colaborador\\Views\\Home\\PainelCliente.cshtml",
-              "RelativeToolTip": "App_Login\\Areas\\Colaborador\\Views\\Home\\PainelCliente.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-02T12:15:26.064Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\App_Login_Asp\\App_Login\\Areas\\Colaborador\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "App_Login\\Areas\\Colaborador\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\App_Login_Asp\\App_Login\\Areas\\Colaborador\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "App_Login\\Areas\\Colaborador\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAqwB0AAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-02T11:24:14.072Z",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\App_Login_Asp\\App_Login\\Areas\\Colaborador\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "App_Login\\Areas\\Colaborador\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\App_Login_Asp\\App_Login\\Areas\\Colaborador\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "App_Login\\Areas\\Colaborador\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-03T15:05:54.173Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LoginColaborador.cshtml",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\App_Login_Asp\\App_Login\\Areas\\Colaborador\\Views\\LoginColaborador.cshtml",
-              "RelativeDocumentMoniker": "App_Login\\Areas\\Colaborador\\Views\\LoginColaborador.cshtml",
-              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\App_Login_Asp\\App_Login\\Areas\\Colaborador\\Views\\LoginColaborador.cshtml",
-              "RelativeToolTip": "App_Login\\Areas\\Colaborador\\Views\\LoginColaborador.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-02T11:49:53.075Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PainelGerente.cshtml",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\App_Login_Asp\\App_Login\\Areas\\Colaborador\\Views\\PainelGerente.cshtml",
-              "RelativeDocumentMoniker": "App_Login\\Areas\\Colaborador\\Views\\PainelGerente.cshtml",
-              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\App_Login_Asp\\App_Login\\Areas\\Colaborador\\Views\\PainelGerente.cshtml",
-              "RelativeToolTip": "App_Login\\Areas\\Colaborador\\Views\\PainelGerente.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-02T12:09:11.377Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\App_Login_Asp\\App_Login\\Program.cs",
-              "RelativeDocumentMoniker": "App_Login\\Program.cs",
-              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\App_Login_Asp\\App_Login\\Program.cs",
-              "RelativeToolTip": "App_Login\\Program.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-02T11:22:29.584Z"
             }
           ]
         }
